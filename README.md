@@ -1,6 +1,3 @@
-# buildspace 
-### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project. 
+### Bem-Vindo! 👋
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://buildspace.so/p/build-ai-writing-assistant-gpt3) and link your Discord account so you can get access to helpful channels and your instructor!
+Esse é um protótipo de um gerador de Curriculum Vitae. A idéia é pegar uma descrição ds informações profissionais em linguagem natural do usuário, sem formatação, e gerar um bom começo de rascunho. Essa ferramenta pode auxiliar pessoas que não tem a informação de como formatar um CV de forma profissional.
