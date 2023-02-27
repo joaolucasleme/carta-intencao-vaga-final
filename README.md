@@ -1,4 +1,4 @@
-# Gerador de Carta de Intenção
+# Gerador de Carta de Intenção para Calmly
 
 ### Bem-Vindo! 👋
 
