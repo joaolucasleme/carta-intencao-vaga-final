@@ -47,7 +47,7 @@ const generate = async (prompt) => {
   return completion.choices.pop();
 }
 const generateCompletionAction = async (info) => {try {
-    sendMessage('generating...');
+    sendMessage('gerando...');
     const { selectionText } = info;
     const basePromptPrefix = `
 	Escreva uma carta de intenção para uma descrição de vaga de emprego. A carta deve manter um tom profissional e confiante, e deve transparecer as melhores qualidades do profissional. Ao final da carta, inclua a seguinte observação em negrito e itálico.
