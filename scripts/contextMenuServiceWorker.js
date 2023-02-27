@@ -69,7 +69,7 @@ const generateCompletionAction = async (info) => {try {
 chrome.runtime.onInstalled.addListener(() => {
     chrome.contextMenus.create({
       id: 'context-run',
-      title: 'Generate blog post',
+      title: 'Gerar Carta',
       contexts: ['selection'],
     });
   });
